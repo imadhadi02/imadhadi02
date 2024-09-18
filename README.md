@@ -9,7 +9,7 @@
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: Je connais un peu du français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
