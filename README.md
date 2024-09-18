@@ -5,7 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 📝 I regulary write technical articles for [hashnode](https://imadhadi02.tech/) and [dev.to](https://dev.to/imadhadi02)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
@@ -29,9 +29,9 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=imadhadi02&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadhadi02&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imadhadi02&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
